@@ -60,13 +60,13 @@ We would like to acknowledge the following individuals for their contributions t
     </td>
    <td align="">
     <a href="https://github.com/MariamHany01" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/108580462?v=4" width="150px;" alt="Mariam Hany"/>
+    <img src="https://github.com/hanaheshamm.png" width="150px;" alt="Mariam Hany"/>
     <br />
     <sub><b>Mariam Hany</b></sub></a>
     </td>
     <td align="center">
     <a href="https://github.com/hanaheshamm" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/108580462?v=4" width="150px;" alt="Hana Hesham"/>
+    <img src="https://github.com/MariamHany01.png" width="150px;" alt="Hana Hesham"/>
     <br />
     <sub><b>Hana Hesham</b></sub></a>
     </td>
